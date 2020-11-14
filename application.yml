@@ -1,9 +1,0 @@
-my:
-    greeting: hello worrd
-    list:
-          values:one,two,three
-    
-    db:
-        connection: connection-spring-here-from-config-server
-        host:127.0.1
-        port:1200
